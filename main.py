@@ -1,3 +1,4 @@
+# Ветка разработки — dev
 from service import RentalService
 from ui import ConsoleUI
 
