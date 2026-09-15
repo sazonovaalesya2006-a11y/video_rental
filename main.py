@@ -1,3 +1,4 @@
+# Студенческая ветка — лабораторная №3
 from service import RentalService
 from ui import ConsoleUI
 
