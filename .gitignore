@@ -17,3 +17,6 @@ Thumbs.db
 
 # Локальные настройки
 *.log
+
+.coverage
+htmlcov/
